@@ -21,9 +21,9 @@
     "@angular/router": "~12.1.2",
     "@types/algoliasearch": "^4.0.0",
     "algoliasearch": "4.10.3",
-    "angular-instantsearch": "4.0.0-alpha.0",
+    "angular-instantsearch": "4.0.0-alpha.1",
     "core-js": "^2.4.1",
-    "instantsearch.js": "4.25.1-experimental-typescript.0",
+    "instantsearch.js": "4.25.0-experimental-typescript.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.4"
