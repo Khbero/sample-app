@@ -3,10 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { NgAisModule } from 'angular-instantsearch';
+import { SearchBoxComponent } from './widgets/search-box/search-box.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SearchBoxComponent
   ],
   imports: [
     BrowserModule,
